@@ -1,7 +1,8 @@
 <?php 
 
-require_once('inc/redux/redux-core/framework.php');
-require_once('inc/redux/sample/config.php');
+require_once get_theme_file_path() .'/inc/codestar-framework/codestar-framework.php';
+require_once get_theme_file_path() .'/inc/codestar-framework/samples/admin-options.php';
+
 
 
 ?>
